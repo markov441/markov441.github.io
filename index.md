@@ -10,6 +10,7 @@ Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 * Web Design (HTML, CSS)
 * Machine Learning (NumPy, SciPy, Pandas, PyTorch, Kaggle participation)
 * VR/AR (Unity, Vuforia)
+
 ### Projects
 * [Social network Besedka (Communication and Friendship Web-Site)](http://www.besedka.net)
 * [Translator's website (Web Office of a Translator)](http://www.translationsland.com)
@@ -28,7 +29,7 @@ Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 * [National Open University INTUIT](https://intuit.ru/intuituser/study/diplomas)
 
 ### Credentials
-* [Samsung IT School certificate MC-0005-051](https://myitschool.ru/certificates/)
+* [Samsung IT School certificate MC-0005-051](https://myitschool.ru/certificates)
 * [Programming and Databases fundamentals](https://www.specialist.ru/graduate/groupcert/1380949)
 * [Programming with C](https://www.specialist.ru/graduate/groupcert/1394872)
 * [Programming in Pascal](https://www.specialist.ru/graduate/groupcert/1403162)
