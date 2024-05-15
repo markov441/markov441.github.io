@@ -10,7 +10,6 @@ Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 * Web Design (HTML, CSS)
 * Machine Learning (NumPy, SciPy, Pandas, PyTorch, Kaggle participation)
 * VR/AR (Unity, Vuforia)
-
 ### Projects
 * [Social network Besedka (Communication and Friendship Web-Site)](http://www.besedka.net)
 * [Translator's website (Web Office of a Translator)](http://www.translationsland.com)
@@ -42,9 +41,7 @@ Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 * [Yandex Lyceum](https://yastatic.net/s3/lyceum/2021-certs/219928627-b99172d0-2295-4402-89f4-43f57d711af8.pdf)
 
 ### Reach me
-* [Blog](https://lontrid.home.blog)
 * [Facebook](https://www.facebook.com/oleg.markov.319247)
 * [YouTube](https://www.youtube.com/channel/UCUaBINm9rYYTaKILNxcs28g)
 * [GitHub](https://github.com/lontrid)
-
-© Oleg Markov 2021
+* [WordPress](https://lontrid.home.blog)
