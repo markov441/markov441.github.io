@@ -1,5 +1,5 @@
 ---
-title: ""
+name: "Oleg Markov"
 ---
 ### About me
 I’m Oleg Markov, programmer, web designer and neural networks trainer.\
