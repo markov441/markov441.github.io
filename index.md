@@ -1,7 +1,4 @@
----
-title: "Oleg Markov"
----
-### Oleg Markov
+### About me
 I’m Oleg Markov, programmer, web designer and neural networks trainer.\
 Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 
