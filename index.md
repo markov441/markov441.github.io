@@ -1,5 +1,4 @@
 ---
-title: "Oleg Markov"
 name: "Oleg Markov"
 ---
 ### About me
