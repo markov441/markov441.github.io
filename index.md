@@ -10,7 +10,6 @@ Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 * Web Design: HTML, CSS
 * Machine Learning: NumPy, SciPy, Pandas, PyTorch, Kaggle participation
 * VR/AR: Unity, Vuforia
-
 ### Projects
 * [Social network Besedka (Communication and Friendship Web-Site)](http://www.besedka.net)
 * [Translator's website (Web Office of a Translator)](http://www.translationsland.com)
