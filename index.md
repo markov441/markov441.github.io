@@ -3,22 +3,22 @@ title: ""
 ---
 ### About me
 I’m Oleg Markov, programmer, web designer and neural networks trainer.\
-Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
+Moscow champion of WorldSkills Russia Juniors in web design and development.
 
 ### Skills
-* Programming Languages (Python, Java, C/C++, JavaScript, R)
-* Web Design (HTML, CSS)
-* Machine Learning (NumPy, SciPy, Pandas, PyTorch, Kaggle participation)
+* Programming languages (Python, Java, C/C++, JavaScript, R)
+* Web design (HTML, CSS)
+* Machine learning (NumPy, SciPy, Pandas, PyTorch, Kaggle participation)
 * VR/AR (Unity, Vuforia)
 
 ### Projects
-* [Social Network Besedka (Communication and Friendship Website)](http://www.besedka.net)
-* [Translator's Website (Web Office of a Translator)](http://www.translationsland.com)
+* [Social network Besedka (communication and friendship website)](http://www.besedka.net)
+* [Translator's website (web office of a translator)](http://www.translationsland.com)
 * Solar System VR (not supported now)
-* [AR Geometry (an AR app to the Geometry textbook by Atanasyan for grades 10-11)](https://play.google.com/store/apps/details?id=com.OlegMarkov.ARGeometry)
-* [Markov Messenger](https://play.google.com/store/apps/details?id=com.wMarkov)
-* [Company Website](https://www.globaltranslations.org)
-* Many AR Apps as Greeting Cards
+* [AR Geometry (an AR app to the geometry textbook by Atanasyan for grades 10-11)](https://play.google.com/store/apps/details?id=com.OlegMarkov.ARGeometry)
+* [Markov messenger](https://play.google.com/store/apps/details?id=com.wMarkov)
+* [Company website](https://www.globaltranslations.org)
+* Many AR apps as greeting cards
 
 ### Education
 * [Samsung IT School (2018)](https://myitschool.ru)
@@ -30,7 +30,7 @@ Moscow Champion of WorldSkills Russia Juniors in Web Design and Development.
 
 ### Credentials
 * [Samsung IT School certificate MC-0005-051](https://myitschool.ru/certificates)
-* [Programming and Databases fundamentals](https://www.specialist.ru/graduate/groupcert/1380949)
+* [Programming and Databases Fundamentals](https://www.specialist.ru/graduate/groupcert/1380949)
 * [Programming with C](https://www.specialist.ru/graduate/groupcert/1394872)
 * [Programming in Pascal](https://www.specialist.ru/graduate/groupcert/1403162)
 * [Programming with Visual C++](https://www.specialist.ru/graduate/groupcert/1441915)
