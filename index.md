@@ -8,14 +8,14 @@ Moscow champion of WorldSkills Russia Juniors in web design and development.
 ### Skills
 * Programming languages (Python, Java, C/C++, JavaScript, R)
 * Web design (HTML, CSS)
-* Machine learning (NumPy, SciPy, Pandas, PyTorch, Kaggle participation)
+* Machine learning (NumPy, SciPy, Pandas, PyTorch)
 * VR/AR (Unity, Vuforia)
 
 ### Projects
-* [Social network Besedka (communication and friendship website)](http://www.besedka.net)
+* [Social network Besedka (communication website)](http://www.besedka.net)
 * [Translator's website (web office of a translator)](http://www.translationsland.com)
 * Solar System VR (not supported now)
-* [AR Geometry (an AR app to the geometry textbook by Atanasyan for grades 10-11)](https://play.google.com/store/apps/details?id=com.OlegMarkov.ARGeometry)
+* [AR Geometry (an AR app to the geometry textbook)](https://play.google.com/store/apps/details?id=com.OlegMarkov.ARGeometry)
 * [Markov messenger](https://play.google.com/store/apps/details?id=com.wMarkov)
 * [Company website](https://www.globaltranslations.org)
 * Many AR apps as greeting cards
